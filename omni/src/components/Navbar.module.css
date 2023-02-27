@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    padding: 1em;
+    background-color: #d8d5cf;
+  }
+  
+  .list {
+    display: grid;
+    list-style: none;
+    align-items: center;
+  }
+  
+  .item {
+    margin-right: 1em;
+  }
+  
+  .item a {
+    color: #d81a1a;
+    text-decoration: none;
+    
+  }
+  
+  .item a:hover {
+    color: #c48b19;
+    text-decoration: none;
+  }

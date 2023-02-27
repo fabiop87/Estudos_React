@@ -1,4 +1,6 @@
 body {
+  background-color: #15142b;
+  background-image: linear-gradient(180deg, #122929, #3c3452);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +12,42 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* TABELAS E LISTAS */
+
+table {
+  min-width: 400px;
+  border-spacing: 0px;
+  border: 0.5px solid #0f0fd1;
+  margin: 10px auto;
+}
+
+table thead {
+  background-color: #020107;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+table td {
+  padding: 5px;
+  text-align: center;
+}
+
+table tr {
+  background-color: rgba(6, 6, 31, 0.05);
+}
+
+table tr:nth-child(odd) {
+  background-color: rgba(182, 192, 194, 0.863);
+}
+
+ul > li::marker {
+  color: #06050f;
+}
+
+img {
+  width: 1000px;
+  height: 700px;
 }
