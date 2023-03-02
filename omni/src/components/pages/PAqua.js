@@ -1,5 +1,5 @@
 import imgaquaangra from "../../img/imgaquaangra.jpg";
-import TableAqua from "../../Tables/TableAqua";
+import TableAqua from "../Tables/TableAqua";
 function PAqua() {
 
     const img =  imgaquaangra;

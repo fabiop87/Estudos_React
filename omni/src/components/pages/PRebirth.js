@@ -1,5 +1,5 @@
 import imgrebirthangra from "../../img/imgrebirthangra.jpg";
-import TableRebirth from "../../Tables/TableRebirth";
+import TableRebirth from "../Tables/TableRebirth";
 function PRebirth() {
 
     const img =  imgrebirthangra;

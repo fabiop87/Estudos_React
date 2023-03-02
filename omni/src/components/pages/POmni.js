@@ -1,5 +1,5 @@
 import imgomniangra from "../../img/imgomniangra.jpg";
-import TableOmni from "../../Tables/TableOmni";
+import TableOmni from "../Tables/TableOmni";
 function POmni() {
 
     const img =  imgomniangra;
@@ -12,6 +12,5 @@ function POmni() {
         </div>
     )
 }
-
 
 export default POmni;

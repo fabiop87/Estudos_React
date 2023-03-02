@@ -1,5 +1,5 @@
-import Rebirth from "../components/Albuns/MRebirth";
-function TableRebirth() {
+import HolyLand from "../Albuns/MHolyLand";
+function TableHolyLand() {
 
     return (
         <div>
@@ -9,7 +9,7 @@ function TableRebirth() {
                     <td>Duração</td>
                 </thead>
                 <tbody>
-                    <Rebirth/>
+                    <HolyLand/>
                 </tbody>
             </table>
         </div>
@@ -18,6 +18,7 @@ function TableRebirth() {
 
 }
 
-export default TableRebirth;
+
+export default TableHolyLand;
 
 

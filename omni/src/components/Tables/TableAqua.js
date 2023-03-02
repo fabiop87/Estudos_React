@@ -1,4 +1,4 @@
-import Aqua from "../components/Albuns/MAqua";
+import Aqua from "../Albuns/MAqua";
 function TableAqua() {
 
     return (

@@ -1,4 +1,4 @@
-import Omni from "../components/Albuns/MOmni";
+import Omni from "../Albuns/MOmni";
 function TableOmni() {
 
     return (
